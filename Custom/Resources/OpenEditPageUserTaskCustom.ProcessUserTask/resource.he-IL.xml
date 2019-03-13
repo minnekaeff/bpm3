@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="he-IL">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Open edit page" />
+			<Item Name="Methods.CreateAccompaningActivity.Caption" Value="New accompanying activity" />
+			<Item Name="Methods.CreateActivity.Caption" Value="פעילות חדשה" />
+			<Item Name="Methods.GetActivityTitle.Caption" Value="Get activity recommendations" />
+			<Item Name="Methods.GetActivityType.Caption" Value="Obtain activity page type" />
+			<Item Name="Methods.GetConditionData.Caption" Value="GetConditionData" />
+			<Item Name="Methods.GetDateTime.Caption" Value="Get new date/time" />
+			<Item Name="Methods.GetExecutionData.Caption" Value="GetExecutionData" />
+			<Item Name="Methods.GetIsExecuted.Caption" Value="GetIsExecuted" />
+			<Item Name="Methods.GetNotificationData.Caption" Value="GetNotificationData" />
+			<Item Name="Methods.SerializeCoreEntityColumn.Caption" Value="SerializeCoreEntityColumn" />
+			<Item Name="Methods.SpecifyActivityColumnValues.Caption" Value="SpecifyActivityColumnValues" />
+		</Items>
+	</Group>
+</Resources>

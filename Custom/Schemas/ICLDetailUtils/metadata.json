@@ -1,0 +1,37 @@
+﻿{
+  "MetaData": {
+    "Schema": {
+      "ManagerName": "ClientUnitSchemaManager",
+      "UId": "6ab66a08-8dc5-4e53-8897-f726fc1d9ade",
+      "A2": "ICLDetailUtils",
+      "A5": "4b2f8472-abda-4901-8aa4-d903c26a9eb9",
+      "B1": [],
+      "B2": [
+        {
+          "UId": "8b02c005-8f27-4da5-90a4-24a2cd27f25b",
+          "A2": "DisableButtonCaption",
+          "A3": "6ab66a08-8dc5-4e53-8897-f726fc1d9ade",
+          "A4": "6ab66a08-8dc5-4e53-8897-f726fc1d9ade",
+          "A5": "4b2f8472-abda-4901-8aa4-d903c26a9eb9"
+        },
+        {
+          "UId": "ba744ade-77da-4343-9648-443a9f67ef00",
+          "A2": "EnableButtonCaption",
+          "A3": "6ab66a08-8dc5-4e53-8897-f726fc1d9ade",
+          "A4": "6ab66a08-8dc5-4e53-8897-f726fc1d9ade",
+          "A5": "4b2f8472-abda-4901-8aa4-d903c26a9eb9"
+        }
+      ],
+      "B3": [],
+      "B6": "4675b8ec-3d10-43b3-aa26-59295e433239",
+      "B8": "7.9.1.3284",
+      "HD1": "50e3acc0-26fc-4237-a095-849a1d534bd3",
+      "HD4": 1,
+      "HD6": "null",
+      "HD5": [],
+      "HD7": [],
+      "HD8": [],
+      "HD11": []
+    }
+  }
+}

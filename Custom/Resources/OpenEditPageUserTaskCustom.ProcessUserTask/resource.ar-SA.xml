@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ar-SA">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="فتح صفحة تحرير" />
+			<Item Name="Methods.CreateAccompaningActivity.Caption" Value="نشاط مصاحب جديد" />
+			<Item Name="Methods.CreateActivity.Caption" Value="نشاط جديد" />
+			<Item Name="Methods.GetActivityTitle.Caption" Value="الحصول على توصيات النشاط" />
+			<Item Name="Methods.GetActivityType.Caption" Value="الحصول على نوع صفحة النشاط" />
+			<Item Name="Methods.GetConditionData.Caption" Value="GetConditionData" />
+			<Item Name="Methods.GetDateTime.Caption" Value="الحصول على تاريخ/وقت جديد" />
+			<Item Name="Methods.GetExecutionData.Caption" Value="GetExecutionData" />
+			<Item Name="Methods.GetIsExecuted.Caption" Value="GetIsExecuted" />
+			<Item Name="Methods.GetNotificationData.Caption" Value="GetNotificationData" />
+			<Item Name="Methods.SerializeCoreEntityColumn.Caption" Value="SerializeCoreEntityColumn" />
+			<Item Name="Methods.SpecifyActivityColumnValues.Caption" Value="SpecifyActivityColumnValues" />
+		</Items>
+	</Group>
+</Resources>

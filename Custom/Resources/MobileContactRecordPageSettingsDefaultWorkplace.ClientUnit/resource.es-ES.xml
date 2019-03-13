@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="es-ES">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.ActivityDetailV2StandartDetailContact_caption.Value" Value="Активности" />
+			<Item Name="LocalizableStrings.ContactAddressDetailV2EmbeddedDetailContact_caption.Value" Value="Адреса Контакта" />
+			<Item Name="LocalizableStrings.ContactAnniversaryDetailV2EmbeddedDetailContact_caption.Value" Value="Знаменательные события Контакта" />
+			<Item Name="LocalizableStrings.ContactCareerDetailV2StandardDetailContact_caption.Value" Value="Карьера" />
+			<Item Name="LocalizableStrings.ContactCommunicationDetailEmbeddedDetailContact_caption.Value" Value="Средства связи Контакта " />
+			<Item Name="LocalizableStrings.jobColumnSetContact_caption.Value" Value="Место работы" />
+			<Item Name="LocalizableStrings.primaryColumnSetContact_caption.Value" Value="Основная информация" />
+			<Item Name="LocalizableStrings.SocialMessageDetailCaptionContact_caption.Value" Value="Лента" />
+		</Items>
+	</Group>
+</Resources>

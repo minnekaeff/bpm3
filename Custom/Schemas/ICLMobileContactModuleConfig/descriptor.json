@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "124fae84-dd09-4a6b-84b4-9793039a5f5a",
+    "Name": "ICLMobileContactModuleConfig",
+    "ModifiedOnUtc": "\/Date(1551790717000)\/",
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "ICLMobileContactModuleConfig",
+    "DependsOn": []
+  }
+}

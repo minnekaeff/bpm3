@@ -1,0 +1,23 @@
+= MetaData.Schema.UId "9553dc7b-d315-4b9b-b863-87662f8e4c00"
+= MetaData.Schema.B2.["c6fa477b-cf29-4a2b-ba7d-4f3bf6bf6f55"].A4 "9553dc7b-d315-4b9b-b863-87662f8e4c00"
+= MetaData.Schema.B2.["4538f12e-9d6a-4ab4-b290-ac2da585b904"].A4 "9553dc7b-d315-4b9b-b863-87662f8e4c00"
+= MetaData.Schema.B2.["0c8093d7-14e3-4190-a544-c43908101228"].A4 "9553dc7b-d315-4b9b-b863-87662f8e4c00"
+= MetaData.Schema.B2.["853743f0-06f1-4d91-b596-5a9d3a8667ee"].A4 "9553dc7b-d315-4b9b-b863-87662f8e4c00"
+= MetaData.Schema.B2.["560a5bb9-242b-47be-9100-aa0b560a7150"].A4 "9553dc7b-d315-4b9b-b863-87662f8e4c00"
+= MetaData.Schema.B2.["22514530-1e61-45fd-b178-b0f16e66cdea"].A4 "9553dc7b-d315-4b9b-b863-87662f8e4c00"
+= MetaData.Schema.B2.["472b3ca2-864c-40c6-912c-1d552c8e0ff3"].A4 "9553dc7b-d315-4b9b-b863-87662f8e4c00"
++ MetaData.Schema.B2 {
+  "UId": "032c3f16-dd79-42e3-bf2b-0b40a39ce1c7",
+  "A2": "ContactCareerDetailV2StandardDetailContact_caption",
+  "A3": "9553dc7b-d315-4b9b-b863-87662f8e4c00",
+  "A4": "9553dc7b-d315-4b9b-b863-87662f8e4c00",
+  "A5": "1408dc35-88ec-419c-8abc-34e202ab8ef9"
+}
+~ MetaData.Schema.B2 ["c6fa477b-cf29-4a2b-ba7d-4f3bf6bf6f55","4538f12e-9d6a-4ab4-b290-ac2da585b904","0c8093d7-14e3-4190-a544-c43908101228","853743f0-06f1-4d91-b596-5a9d3a8667ee","560a5bb9-242b-47be-9100-aa0b560a7150","22514530-1e61-45fd-b178-b0f16e66cdea","472b3ca2-864c-40c6-912c-1d552c8e0ff3","032c3f16-dd79-42e3-bf2b-0b40a39ce1c7"]
+= MetaData.Schema.B6 "4675b8ec-3d10-43b3-aa26-59295e433239"
++ MetaData.Schema.B7 true
+= MetaData.Schema.B8 "7.13.1.769"
+= MetaData.Schema.HD1 "6a663fc5-8692-4d30-8ed5-c8a8f0ad1d18"
+- MetaData.Schema.HD4
+- MetaData.Schema.HD12
++ MetaData.Schema.B7 true

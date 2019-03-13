@@ -1,0 +1,15 @@
+﻿{
+  "Descriptor": {
+    "UId": "2727425e-e2bc-48f4-bb55-4d114576829b",
+    "Name": "MobileCaseGridPageSettingsDefaultWorkplace",
+    "ModifiedOnUtc": "\/Date(1551774488000)\/",
+    "Parent": {
+      "UId": "01373218-dd6a-46d2-8036-4aed5583b40c",
+      "Name": "MobileCaseGridPageSettingsDefaultWorkplace"
+    },
+    "ExtendParent": true,
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "MobileCaseGridPageSettingsDefaultWorkplace",
+    "DependsOn": []
+  }
+}

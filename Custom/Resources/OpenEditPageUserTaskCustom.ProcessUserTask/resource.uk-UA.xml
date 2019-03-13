@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="uk-UA">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Відкрити сторінку редагування" />
+			<Item Name="Methods.CreateAccompaningActivity.Caption" Value="Створити активність, що супроводжує" />
+			<Item Name="Methods.CreateActivity.Caption" Value="Створити активність" />
+			<Item Name="Methods.GetActivityTitle.Caption" Value="Отримати рекомендації активності" />
+			<Item Name="Methods.GetActivityType.Caption" Value="Отримати тип сторінки активності" />
+			<Item Name="Methods.GetConditionData.Caption" Value="GetConditionData" />
+			<Item Name="Methods.GetDateTime.Caption" Value="Отримати нову дату/час" />
+			<Item Name="Methods.GetExecutionData.Caption" Value="GetExecutionData" />
+			<Item Name="Methods.GetIsExecuted.Caption" Value="GetIsExecuted" />
+			<Item Name="Methods.GetNotificationData.Caption" Value="GetNotificationData" />
+			<Item Name="Methods.SerializeCoreEntityColumn.Caption" Value="SerializeCoreEntityColumn" />
+			<Item Name="Methods.SpecifyActivityColumnValues.Caption" Value="SpecifyActivityColumnValues" />
+		</Items>
+	</Group>
+</Resources>

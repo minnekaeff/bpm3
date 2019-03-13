@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="pt-BR">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Abrir página de edição" />
+			<Item Name="Methods.CreateAccompaningActivity.Caption" Value="Nova atividade de acompanhamento" />
+			<Item Name="Methods.CreateActivity.Caption" Value="Nova atividade" />
+			<Item Name="Methods.GetActivityTitle.Caption" Value="Obter recomendações de atividade" />
+			<Item Name="Methods.GetActivityType.Caption" Value="Obter tipo de página de atividade" />
+			<Item Name="Methods.GetConditionData.Caption" Value="GetConditionData" />
+			<Item Name="Methods.GetDateTime.Caption" Value="Obter nova data/hora" />
+			<Item Name="Methods.GetExecutionData.Caption" Value="GetExecutionData" />
+			<Item Name="Methods.GetIsExecuted.Caption" Value="GetIsExecuted" />
+			<Item Name="Methods.GetNotificationData.Caption" Value="GetNotificationData" />
+			<Item Name="Methods.SerializeCoreEntityColumn.Caption" Value="SerializeCoreEntityColumn" />
+			<Item Name="Methods.SpecifyActivityColumnValues.Caption" Value="SpecifyActivityColumnValues" />
+		</Items>
+	</Group>
+</Resources>

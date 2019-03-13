@@ -1,0 +1,15 @@
+﻿{
+  "Descriptor": {
+    "UId": "9553dc7b-d315-4b9b-b863-87662f8e4c00",
+    "Name": "MobileContactRecordPageSettingsDefaultWorkplace",
+    "ModifiedOnUtc": "\/Date(1551774480000)\/",
+    "Parent": {
+      "UId": "6a663fc5-8692-4d30-8ed5-c8a8f0ad1d18",
+      "Name": "MobileContactRecordPageSettingsDefaultWorkplace"
+    },
+    "ExtendParent": true,
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "MobileContactRecordPageSettingsDefaultWorkplace",
+    "DependsOn": []
+  }
+}

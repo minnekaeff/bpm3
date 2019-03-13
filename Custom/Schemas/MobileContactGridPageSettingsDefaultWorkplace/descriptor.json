@@ -1,0 +1,15 @@
+﻿{
+  "Descriptor": {
+    "UId": "bb14be77-6434-4931-a396-8a680a9ccd2b",
+    "Name": "MobileContactGridPageSettingsDefaultWorkplace",
+    "ModifiedOnUtc": "\/Date(1551774489000)\/",
+    "Parent": {
+      "UId": "111a2ff4-644c-47fb-9d0b-264f04342db1",
+      "Name": "MobileContactGridPageSettingsDefaultWorkplace"
+    },
+    "ExtendParent": true,
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "MobileContactGridPageSettingsDefaultWorkplace",
+    "DependsOn": []
+  }
+}

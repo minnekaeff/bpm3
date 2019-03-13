@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="es-ES">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="ICLMobileContactCareerRecordPageSettingsDefaultWorkplace" />
+			<Item Name="LocalizableStrings.primaryColumnSetContactCareer_caption.Value" Value="Основная информация" />
+			<Item Name="LocalizableStrings.SocialMessageDetailCaptionContactCareer_caption.Value" Value="Лента" />
+		</Items>
+	</Group>
+</Resources>

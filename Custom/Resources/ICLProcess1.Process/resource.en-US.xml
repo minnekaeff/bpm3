@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="BaseElements.ReadDataUserTask1.Caption" Value="Читать данные 1" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.AggregationColumnName.Caption" Value="Name of aggregate function column" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.CanReadUncommitedData.Caption" Value="Read uncommitted data" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ConsiderTimeInFilter.Caption" Value="Consider time in the filter" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ConsiderTimeInFilter.DisplayValue" Value="false" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.DataSourceFilters.Caption" Value="Data source of filters" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.EntityColumnMetaPathes.Caption" Value="Columns to read" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.FunctionType.Caption" Value="Aggregate function type" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.IgnoreDisplayValues.Caption" Value="Do not read displayed values of lookup columns" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.NumberOfRecords.Caption" Value="Number of records to read" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.OrderInfo.Caption" Value="Columns order" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ReadSomeTopRecords.Caption" Value="Read first" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultCompositeObjectList.Caption" Value="Collection of records" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultCount.Caption" Value="Number of records" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultDateTimeFunction.Caption" Value="Function result" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultEntity.Caption" Value="First item of resulting collection" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultEntityCollection.Caption" Value="Resulting collection" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultFloatFunction.Caption" Value="Function result" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultIntegerFunction.Caption" Value="Function result" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultRowsCount.Caption" Value="Number of records read" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultType.Caption" Value="Type of result" />
+			<Item Name="BaseElements.UserTask2.Caption" Value="Открыть страницу выбора из справочника 1" />
+			<Item Name="BaseElements.UserTask2.Parameters.Account.Caption" Value="Account" />
+			<Item Name="BaseElements.UserTask2.Parameters.ActivityCategory.Caption" Value="Category" />
+			<Item Name="BaseElements.UserTask2.Parameters.ActivityCategory.DisplayValue" Value="To do" />
+			<Item Name="BaseElements.UserTask2.Parameters.ActivityIdCustom.Caption" Value="Активити айди" />
+			<Item Name="BaseElements.UserTask2.Parameters.ActivityIdCustom.DisplayValue" Value="Guid.Parse(&quot;d537b9a0-3b00-4889-b45c-c4076f50f0f8&quot;)" />
+			<Item Name="BaseElements.UserTask2.Parameters.ActivityResult.Caption" Value="Result of activity" />
+			<Item Name="BaseElements.UserTask2.Parameters.ActivitySchemaUId.Caption" Value="Unique identifier of &quot;Activity&quot; object schema" />
+			<Item Name="BaseElements.UserTask2.Parameters.Case.Caption" Value="Case" />
+			<Item Name="BaseElements.UserTask2.Parameters.Change.Caption" Value="Change" />
+			<Item Name="BaseElements.UserTask2.Parameters.Contact.Caption" Value="Contact" />
+			<Item Name="BaseElements.UserTask2.Parameters.Contract.Caption" Value="Contract" />
+			<Item Name="BaseElements.UserTask2.Parameters.CurrentActivityId.Caption" Value="Unique identifier of activity" />
+			<Item Name="BaseElements.UserTask2.Parameters.CurrentActivityId.DisplayValue" Value="new Guid(&quot;ece1fd77-daaa-444f-8001-afd8bd27fd40&quot;)" />
+			<Item Name="BaseElements.UserTask2.Parameters.DataSourceFilters.Caption" Value="Data source filters" />
+			<Item Name="BaseElements.UserTask2.Parameters.DecisionalColumnMetaPath.Caption" Value="Column" />
+			<Item Name="BaseElements.UserTask2.Parameters.Document.Caption" Value="Document" />
+			<Item Name="BaseElements.UserTask2.Parameters.Duration.Caption" Value="Duration" />
+			<Item Name="BaseElements.UserTask2.Parameters.Duration.DisplayValue" Value="5" />
+			<Item Name="BaseElements.UserTask2.Parameters.DurationPeriod.Caption" Value="Duration (period)" />
+			<Item Name="BaseElements.UserTask2.Parameters.DurationPeriod.DisplayValue" Value="0" />
+			<Item Name="BaseElements.UserTask2.Parameters.EditMode.Caption" Value="Page edit mode" />
+			<Item Name="BaseElements.UserTask2.Parameters.EditMode.DisplayValue" Value="0" />
+			<Item Name="BaseElements.UserTask2.Parameters.ExecutedMode.Caption" Value="Consider completed" />
+			<Item Name="BaseElements.UserTask2.Parameters.ExecutedMode.DisplayValue" Value="1" />
+			<Item Name="BaseElements.UserTask2.Parameters.ExecutionContext.Caption" Value="Execution context" />
+			<Item Name="BaseElements.UserTask2.Parameters.GenerateDecisionsFromColumn.Caption" Value="Results list is generated by column" />
+			<Item Name="BaseElements.UserTask2.Parameters.GenerateDecisionsFromColumn.DisplayValue" Value="[#Логическое значение.Нет#]" />
+			<Item Name="BaseElements.UserTask2.Parameters.Incident.Caption" Value="Incident" />
+			<Item Name="BaseElements.UserTask2.Parameters.InformationOnStep.Caption" Value="Information on step" />
+			<Item Name="BaseElements.UserTask2.Parameters.Invoice.Caption" Value="Invoice" />
+			<Item Name="BaseElements.UserTask2.Parameters.IsActivityCompleted.Caption" Value="Activity completed" />
+			<Item Name="BaseElements.UserTask2.Parameters.IsActivityCompleted.DisplayValue" Value="[#Логическое значение.Да#]" />
+			<Item Name="BaseElements.UserTask2.Parameters.IsMatchConditions.Caption" Value="If object meets the following conditions" />
+			<Item Name="BaseElements.UserTask2.Parameters.IsReexecution.Caption" Value="Repeated completion" />
+			<Item Name="BaseElements.UserTask2.Parameters.Lead.Caption" Value="Lead" />
+			<Item Name="BaseElements.UserTask2.Parameters.Listing.Caption" Value="Listing" />
+			<Item Name="BaseElements.UserTask2.Parameters.ObjectSchemaId.Caption" Value="Object" />
+			<Item Name="BaseElements.UserTask2.Parameters.ObjectSchemaId.DisplayValue" Value="new Guid(&quot;25d7c1ab-1de0-4501-b402-02e0e5a72d6e&quot;)" />
+			<Item Name="BaseElements.UserTask2.Parameters.Opportunity.Caption" Value="Opportunity" />
+			<Item Name="BaseElements.UserTask2.Parameters.Order.Caption" Value="Order" />
+			<Item Name="BaseElements.UserTask2.Parameters.OwnerId.Caption" Value="Owner" />
+			<Item Name="BaseElements.UserTask2.Parameters.OwnerId.DisplayValue" Value="[#Системная переменная.Контакт текущего пользователя#]" />
+			<Item Name="BaseElements.UserTask2.Parameters.PageSchemaId.Caption" Value="Page" />
+			<Item Name="BaseElements.UserTask2.Parameters.PageSchemaId.DisplayValue" Value="new Guid(&quot;f5edc79d-8d39-4e51-a255-57ccf3f1349e&quot;)" />
+			<Item Name="BaseElements.UserTask2.Parameters.PageTypeUId.Caption" Value="Unique identifier of page type" />
+			<Item Name="BaseElements.UserTask2.Parameters.Problem.Caption" Value="Problem" />
+			<Item Name="BaseElements.UserTask2.Parameters.Project.Caption" Value="Project" />
+			<Item Name="BaseElements.UserTask2.Parameters.Property.Caption" Value="Property" />
+			<Item Name="BaseElements.UserTask2.Parameters.Recommendation.Caption" Value="Recommendation" />
+			<Item Name="BaseElements.UserTask2.Parameters.Recommendation.DisplayValue" Value="Открыть страницу редактирования 1" />
+			<Item Name="BaseElements.UserTask2.Parameters.Recommendation.Value" Value="Открыть страницу редактирования 1" />
+			<Item Name="BaseElements.UserTask2.Parameters.RecordColumnValues.Caption" Value="Default values" />
+			<Item Name="BaseElements.UserTask2.Parameters.RecordId.Caption" Value="Record Id" />
+			<Item Name="BaseElements.UserTask2.Parameters.RecordId.DisplayValue" Value="new Guid(&quot;a67e884a-2c22-4d05-8bbc-b0296c847196&quot;)" />
+			<Item Name="BaseElements.UserTask2.Parameters.Release.Caption" Value="Release" />
+			<Item Name="BaseElements.UserTask2.Parameters.RemindBefore.Caption" Value="Remind owner in advance" />
+			<Item Name="BaseElements.UserTask2.Parameters.RemindBeforePeriod.Caption" Value="Remind owner in advance (period)" />
+			<Item Name="BaseElements.UserTask2.Parameters.Requests.Caption" Value="Request" />
+			<Item Name="BaseElements.UserTask2.Parameters.ResultParameter.Caption" Value="Diverging parameter" />
+			<Item Name="BaseElements.UserTask2.Parameters.SendNotify.Caption" Value="Отправить уведомление" />
+			<Item Name="BaseElements.UserTask2.Parameters.SendNotify.DisplayValue" Value="5566" />
+			<Item Name="BaseElements.UserTask2.Parameters.SendNotify.Value" Value="5566" />
+			<Item Name="BaseElements.UserTask2.Parameters.ShowExecutionPage.Caption" Value="Show execution page automatically" />
+			<Item Name="BaseElements.UserTask2.Parameters.ShowExecutionPage.DisplayValue" Value="true" />
+			<Item Name="BaseElements.UserTask2.Parameters.ShowInScheduler.Caption" Value="Show in calendar" />
+			<Item Name="BaseElements.UserTask2.Parameters.ShowInScheduler.DisplayValue" Value="[#Логическое значение.Нет#]" />
+			<Item Name="BaseElements.UserTask2.Parameters.StartIn.Caption" Value="Start executing in" />
+			<Item Name="BaseElements.UserTask2.Parameters.StartInPeriod.Caption" Value="Start executing in (period)" />
+			<Item Name="Caption" Value="Бизнес-процесс 1" />
+			<Item Name="LaneSets.LaneSet1.Caption" Value="LaneSet 1" />
+			<Item Name="LaneSets.LaneSet1.Lanes.Lane1.Caption" Value="Lane 1" />
+			<Item Name="NotificationCaption.Caption" Value="Заголовок экземпляра процесса" />
+			<Item Name="NotificationCaption.DisplayValue" Value="[#Название процесса#]" />
+		</Items>
+	</Group>
+</Resources>

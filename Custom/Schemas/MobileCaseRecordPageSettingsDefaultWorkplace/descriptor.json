@@ -1,0 +1,15 @@
+﻿{
+  "Descriptor": {
+    "UId": "bc9fd7ff-394b-4e86-bb48-0ffd4cd5b643",
+    "Name": "MobileCaseRecordPageSettingsDefaultWorkplace",
+    "ModifiedOnUtc": "\/Date(1551774484000)\/",
+    "Parent": {
+      "UId": "44a44abc-1971-47b3-b4ac-57a3754cfd5a",
+      "Name": "MobileCaseRecordPageSettingsDefaultWorkplace"
+    },
+    "ExtendParent": true,
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "MobileCaseRecordPageSettingsDefaultWorkplace",
+    "DependsOn": []
+  }
+}

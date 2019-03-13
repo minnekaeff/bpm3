@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ro-RO">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Deschide pagina editare" />
+			<Item Name="Methods.CreateAccompaningActivity.Caption" Value="Activitate acompaniatoare noua" />
+			<Item Name="Methods.CreateActivity.Caption" Value="Activitate noua" />
+			<Item Name="Methods.GetActivityTitle.Caption" Value="Obtine recomandari activitate" />
+			<Item Name="Methods.GetActivityType.Caption" Value="Obtine tip pagina activitate" />
+			<Item Name="Methods.GetConditionData.Caption" Value="GetConditionData" />
+			<Item Name="Methods.GetDateTime.Caption" Value="Obtine data/ora noi" />
+			<Item Name="Methods.GetExecutionData.Caption" Value="GetExecutionData" />
+			<Item Name="Methods.GetIsExecuted.Caption" Value="GetIsExecuted" />
+			<Item Name="Methods.GetNotificationData.Caption" Value="GetNotificationData" />
+			<Item Name="Methods.SerializeCoreEntityColumn.Caption" Value="SerializeCoreEntityColumn" />
+			<Item Name="Methods.SpecifyActivityColumnValues.Caption" Value="SpecifyActivityColumnValues" />
+		</Items>
+	</Group>
+</Resources>

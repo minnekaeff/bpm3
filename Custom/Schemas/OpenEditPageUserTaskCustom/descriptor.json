@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "94068455-f206-4a0d-b147-eca6408b2415",
+    "Name": "OpenEditPageUserTaskCustom",
+    "ModifiedOnUtc": "\/Date(1551767914000)\/",
+    "ManagerName": "ProcessUserTaskSchemaManager",
+    "Caption": "Open edit page",
+    "DependsOn": []
+  }
+}

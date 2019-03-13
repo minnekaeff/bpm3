@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "619555e8-42b7-4c9d-a56f-17dc822a5517",
+    "Name": "ICLMobileContactCareerActionsSettingsDefaultWorkplace",
+    "ModifiedOnUtc": "\/Date(1551774469000)\/",
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "ICLMobileContactCareerActionsSettingsDefaultWorkplace",
+    "DependsOn": []
+  }
+}

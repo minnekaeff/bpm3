@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "b4d64a4e-c9cd-43b7-9a16-64ed61865905",
+    "Name": "ICLModuleExample",
+    "ModifiedOnUtc": "\/Date(1551938704000)\/",
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "ICLModuleExample",
+    "DependsOn": []
+  }
+}

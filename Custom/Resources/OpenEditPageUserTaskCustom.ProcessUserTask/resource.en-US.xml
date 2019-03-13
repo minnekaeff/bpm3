@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Open edit page" />
+			<Item Name="DcmSmallSvgImage" Type="Image" ContentType="Data" FileExtension=".svg" Value="PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNiAxNiIgZW5hYmxlLWJhY2tncm91bmQ9Im5ldyAwIDAgMTYgMTYiPjxnIGZpbGw9IiNhMjhkYzUiPjxwYXRoIGQ9Ik05LjUgMTQgNyAxMS41IDcgMTR6Ii8+PHBhdGggZD0iTTAsNXY2LjVDMCwxMi45LDEuMSwxNCwyLjUsMTRINnYtMXYtMmw2LTZIMUgweiIvPjxwYXRoIGQ9Ik0xMi41LDFoLTEwQzEuMSwxLDAsMi4xLDAsMy41VjRoMWgxaDcuNUgxNGgxVjMuNUMxNSwyLjEsMTMuOSwxLDEyLjUsMXoiLz48cGF0aCB0cmFuc2Zvcm09Im1hdHJpeCguNzA3MS0uNzA3MS43MDcxLjcwNzEtLjg5NSAxMS44NzcpIiBkPSJtMTMuMSA1LjZoMS42djIuOGgtMS42eiIvPjxwYXRoIHRyYW5zZm9ybT0ibWF0cml4KC43MDcxLS43MDcxLjcwNzEuNzA3MS00LjA1NSAxMC41NjgpIiBkPSJtOC4zIDguOGg0Ljl2Mi44aC00Ljl6Ii8+PC9nPjwvc3ZnPg==" />
+			<Item Name="LargeImage" Type="Image" Value="iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAABGdBTUEAALGPC/xhBQAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAO1SURBVFhHxZXfT1NnGMd7sctdk3Dnf7DsYu5i0bvFxZgl3rllSkxdhhELcuGVsCBODYdaghE6fyEUCQUbEVA6KDKsEGxrqQ4GYjoNOsGCSOkv+vPr87zYhqantWhOfZNPcvrwvu/ne87znoMKwGdFtlhIZIuFRLZYSFTfVXZ89cMJ02yJ1pw4IClDSb05QY45cn2dEWC7xiBJpkn021+he2xeEXjvuhtOfKMxNMoFaNSanGgZdkNvfqIIvHc9Och1MSPAt+XtDVVt46g1TqL6ukMRarsmcaJ1HOTSZwaoaG8o14/gtwujUDeOKEJp0yg05JANsLPS0FCht+BQ4yAO6syKwHuX64ew45ghM4BG6vBEIlHEYnFEYzFF4L0jkQi6LXY/SQ+mBaiQrnvoAkjEFSQhFJbpRYzMvObLV0TVvqYxlapMMjq5EhNJlYH1ur9mQUJB6TU7KzlEaSpANBrNidVq3TI2mw3z8/O8PQ63OlIBmOP01tF4lAoQDodzwht+zLj8twvO5wviusyQHuL/t0GIAAnq0fr6OkwTUxlwnfmYACdvjqGu7xF2a7vxNhBCKBTyH2lz4qfmcZzpnxatEQG4T8FgMCdbDVDZMQyJ5LqBaTQNz2GP7gbe+EP8p5fdtheIbxzMH0UA7nEgEPhkuFXxeBwVJD/T44T2zhTOW2Zx6f5ztNsXsPd8D5Z9QRafJIqJjbeAF/p8vk+C28TyMsOQkJ97L//z3n9oe/ASfTNe6IZciMXFnX/B8lQA6g28Xm9OkidbDrfbLdr0a4s5Q95K8lvTqzg78BDhaIzlPyflqQC8eHV1NScsyjXUVweyyk/fcSBEX1vjkIPfyZScEQH8fj9WVlbQaXVlwHUmV4CSS7ezyv+4bRdybtFRyfiYpqcHOFrf5VxbW8Py8nJOsgXYf7E/q7y234ZgOCrOCDuyBuBH7PF4tgR/O3ZJnajrdcnKa3ofwL8eEWKezw75AJLRxYdsaWkpb7gl/N9N0z6IapMdzXfn0uS/39qQ850n13AQjbbrn4wAv1RdHuNHvLi4mDd8aFtGZ2g98D09heZRNzocC+j914uqngn4QmEh3LyGHeratomkOImquLh4m7rmyuzhU1eXSvOEFmJnTQsePltBIBzBrvpOnB2cQjXduTdIn3SLzb95Pu99qObKXFFR0bbNcibtxxYQARgHhaAR6Jt8Kg4cjUpCbo0sssU8SAVgrE/EQ1ETXxJy87MiW8yDJmLz4N9y8z6IbLGQyBYLB1TvAJ2t9CQzervDAAAAAElFTkSuQmCC" />
+			<Item Name="LargeSvgImage" Type="Image" ContentType="Data" FileExtension=".svg" Value="77u/PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz48IS0tIEdlbmVyYXRvcjogQWRvYmUgSWxsdXN0cmF0b3IgMTkuMi4wLCBTVkcgRXhwb3J0IFBsdWctSW4gLiBTVkcgVmVyc2lvbjogNi4wMCBCdWlsZCAwKSAgLS0+PHN2ZyB2ZXJzaW9uPSIxLjEiIGlkPSJMYXllcl8xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB4PSIwcHgiIHk9IjBweCIJIHZpZXdCb3g9IjAgMCA2OSA1NSIgc3R5bGU9ImVuYWJsZS1iYWNrZ3JvdW5kOm5ldyAwIDAgNjkgNTU7IiB4bWw6c3BhY2U9InByZXNlcnZlIj48c3R5bGUgdHlwZT0idGV4dC9jc3MiPgkuc3Qwe2ZpbGw6I0EyOERDNTt9CS5zdDF7ZmlsbDojRkZGRkZGO308L3N0eWxlPjxwYXRoIGNsYXNzPSJzdDAiIGQ9Ik01OSw1NUgxMEM0LjUsNTUsMCw1MC41LDAsNDVWMTBDMCw0LjUsNC41LDAsMTAsMGg0OWM1LjUsMCwxMCw0LjUsMTAsMTB2MzVDNjksNTAuNSw2NC41LDU1LDU5LDU1eiIvPjx0aXRsZT5pY29uX09wZW5FZGl0UGFnZV9zPC90aXRsZT48Zz4JPHJlY3QgeD0iMzcuOCIgeT0iMzAiIHRyYW5zZm9ybT0ibWF0cml4KDAuNzA3MSAtMC43MDcxIDAuNzA3MSAwLjcwNzEgLTkuOTQ2MiA0MC45ODQ4KSIgY2xhc3M9InN0MSIgd2lkdGg9IjEzLjQiIGhlaWdodD0iNSIvPgk8cG9seWdvbiBjbGFzcz0ic3QxIiBwb2ludHM9IjU0LjIsMjYuMiA1MC44LDIyLjggNDguOCwyNC44IDUyLjIsMjguMiAJIi8+CTxwb2x5Z29uIGNsYXNzPSJzdDEiIHBvaW50cz0iNDAuMiw0MC42IDM2LjUsMzcgMzUuNSw0MS41IAkiLz4JPHBhdGggY2xhc3M9InN0MSIgZD0iTTQ3LDE0SDIzYy0xLjcsMC0zLDEuMy0zLDN2MjFjMCwxLjcsMS4zLDMsMywzaDhsMS43LTJIMjNjLTAuNiwwLTEtMC40LTEtMVYyMWgyOHYtNEM1MCwxNS4zLDQ4LjcsMTQsNDcsMTR6IgkJLz48L2c+PC9zdmc+" />
+			<Item Name="MainLargeImage" Type="Image" Value="iVBORw0KGgoAAAANSUhEUgAAAEUAAAA3CAYAAABaZ4fjAAAABGdBTUEAALGPC/xhBQAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAH5SURBVGhD7ZtNbsIwEEY5AkfIUTlCbsOGLQt2EVs2LNggilpRtWqLVNdf6lETZxDFGYydzEgPKb+2n2zjJPbEGNNhPj8UltJSWcwAQblQvoIrf2eHO5m70VApfQdNGVPLUGvGNVDuKSdlrEKIqiXF7hhbk7lE3ZSoU+VOGCuF1pIupfYlXSpI4Q6MGpXCoFIYVAqDSmFQKQwqhUGlMIhLWa9fzfn8bR8h7h9IB+lx+eiDqJTV6sVlN24gXS4/oYhK2e0+XDbjxmbzxuYnFFEpx+OXy2bcUClMqBQmVAoTWUiRzmRsBiNluXxm94cwCCk0FJAayGUvZbt9r9OkkBCTvRRI8KOvmCylLBZP5nQ6180G274Y1B7/mlvITgoJofDF0HYfspLiC6EgEVL/QNlIuSSEQqKDJbKQck2IRJNpkryU2EJA0lIeIQQkK+VRQkCSUh4pBCQpBYW+FPcWArKqKTGEgKSk4K08ZECKLyaWECAqhZ5Y8T0mZHQJmQhfTEwhQFTKrd99IA8Fp+v3+0935E9M8/6xEJUCMNz+zxdCrjb51/Xtm0IRlxIKagUkQKrkq8UQkpGSEiqFQaUwQIrOo21Tz6PVGddt6hnXOje/TaGrONr8ruLAjxOj632ci6YUXRnmSyHswVnj5DEw8x20Ngh74ohXm5rJD7qEW/2ElwvuAAAAAElFTkSuQmCC" />
+			<Item Name="Methods.CreateAccompaningActivity.Caption" Value="New accompanying activity" />
+			<Item Name="Methods.CreateActivity.Caption" Value="New activity" />
+			<Item Name="Methods.GetActivityTitle.Caption" Value="Get activity recommendations" />
+			<Item Name="Methods.GetActivityType.Caption" Value="Obtain activity page type" />
+			<Item Name="Methods.GetConditionData.Caption" Value="GetConditionData" />
+			<Item Name="Methods.GetDateTime.Caption" Value="Get new date/time" />
+			<Item Name="Methods.GetExecutionData.Caption" Value="GetExecutionData" />
+			<Item Name="Methods.GetIsExecuted.Caption" Value="GetIsExecuted" />
+			<Item Name="Methods.GetNotificationData.Caption" Value="GetNotificationData" />
+			<Item Name="Methods.SerializeCoreEntityColumn.Caption" Value="SerializeCoreEntityColumn" />
+			<Item Name="Methods.SpecifyActivityColumnValues.Caption" Value="SpecifyActivityColumnValues" />
+			<Item Name="NotificationImage" Type="Image" Value="iVBORw0KGgoAAAANSUhEUgAAADYAAAA2CAYAAACMRWrdAAAAIGNIUk0AAHolAACAgwAA+f8AAIDpAAB1MAAA6mAAADqYAAAXb5JfxUYAAAAJcEhZcwAACwwAAAsMAT9AIsgAAAMWSURBVGhD3VrdahNBGM0j9BHySH2EPkJfRFIoFMGLgFZqW0QRhapgvCmxrVqhRS9avVAQBbWU3lS8WM+ZzNDu9stmdn52J3PgkGR+vm9Ovm9nZme3FxJ3b+32wSVwAI7AM7CYQtaxDduyT1+bSQMY0AK4DB6CkoAmpA3aWtDm2wecMzpDUBpgCNJ2e1GEM0aI6SMNJgbpK24E4WARrLtuYpE+F/UwwgKGY6adLYd6OP6AMaZeiIkhFDkWv9SkAW1IctAl3cWxozYgGU6BbuJ0R8lgSjzUw7UDOqQwUdjSbkJBQ07pkoGUWb8UoAGvqy7WKV9yzNOvN1S2uaMIzYGWUQYquPeTOswTb+4tUThPE8Y0licSFPDakhrO5MHoS3FxflmEAm3RpuTLklfXGn7wHkhqVEsO4O/lv+L51rFY70Laok0PcctalhLmtBjz3w0pypA2aVuqs+Bk0cYX50mDkMpD0NN2n8J43iBVzqSn81p62l6iMOe1KzYkn5YcUBhPiqTKmfR0XkvPa3dEYc5bqJjCPHlGYVKFFWMI21rbF8ubMilhT+99KH79uChePfok1jdhMsIeD98rUS+2j5RdX3FJCKMo4vWTiRiKInzEdS6M6UeMX56qz50HR6r82f1Jues116kwI8pExkSKIpmWRqQLKayT6b4qytBEbnfnpFTekGq6b32BNqKqgzcR84mUplqgvbZUUnkdOWiiGqmAoki1pWptE7x9+0D1OT3+WSoPLIpUm+DWbluYet8+/1H9TBryk2B6Vtt7cHL2gS+t3Gh+PfmtBJh0ZOSIgJEir06H8SP60cD6yliJ2Fh9oxbkj+++q9+BRZGlo4Fohzmm3cM7b9WfQDByTEGWXbcViOWDUxREPX7bXNtTQtYHY7E+EG+e46MwzwNTAhX5HXETqMzzoQSBBvk9RjJAw3k6x5+eghLQIb9HtQQ65flwnWBHbUAy3CXdRRnQgDYkOeiC/qKuA8ZSmFCaTRS2gOH8XhIzgAOmZps7FPoKl3qzAGd5vYhZBZwzgvm8OisBA2IUE3jZudf7D0QnwLagAakoAAAAAElFTkSuQmCC" />
+			<Item Name="Parameters.Account.Caption" Value="Account" />
+			<Item Name="Parameters.Account.Group" Value="Connected to" />
+			<Item Name="Parameters.ActivityCategory.Caption" Value="Category" />
+			<Item Name="Parameters.ActivityCategory.DisplayValue" Value="To do" />
+			<Item Name="Parameters.ActivityCategory.Group" Value="General" />
+			<Item Name="Parameters.ActivityIdCustom.Caption" Value="Активити айди" />
+			<Item Name="Parameters.ActivityResult.Caption" Value="Result of activity" />
+			<Item Name="Parameters.ActivitySchemaUId.Caption" Value="Unique identifier of &quot;Activity&quot; object schema" />
+			<Item Name="Parameters.Case.Caption" Value="Case" />
+			<Item Name="Parameters.Case.Group" Value="Connected to" />
+			<Item Name="Parameters.Change.Caption" Value="Change" />
+			<Item Name="Parameters.Change.Group" Value="Connected to" />
+			<Item Name="Parameters.Contact.Caption" Value="Contact" />
+			<Item Name="Parameters.Contact.Group" Value="Connected to" />
+			<Item Name="Parameters.Contract.Caption" Value="Contract" />
+			<Item Name="Parameters.Contract.Group" Value="Connected to" />
+			<Item Name="Parameters.CurrentActivityId.Caption" Value="Unique identifier of activity" />
+			<Item Name="Parameters.DataSourceFilters.Caption" Value="Data source filters" />
+			<Item Name="Parameters.DecisionalColumnMetaPath.Caption" Value="Column" />
+			<Item Name="Parameters.Document.Caption" Value="Document" />
+			<Item Name="Parameters.Document.Group" Value="Connected to" />
+			<Item Name="Parameters.Duration.Caption" Value="Duration" />
+			<Item Name="Parameters.Duration.Group" Value="General" />
+			<Item Name="Parameters.DurationPeriod.Caption" Value="Duration (period)" />
+			<Item Name="Parameters.EditMode.Caption" Value="Page edit mode" />
+			<Item Name="Parameters.ExecutedMode.Caption" Value="Consider completed" />
+			<Item Name="Parameters.ExecutionContext.Caption" Value="Execution context" />
+			<Item Name="Parameters.GenerateDecisionsFromColumn.Caption" Value="Results list is generated by column" />
+			<Item Name="Parameters.Incident.Caption" Value="Incident" />
+			<Item Name="Parameters.Incident.Group" Value="Connected to" />
+			<Item Name="Parameters.InformationOnStep.Caption" Value="Information on step" />
+			<Item Name="Parameters.InformationOnStep.Group" Value="General" />
+			<Item Name="Parameters.Invoice.Caption" Value="Invoice" />
+			<Item Name="Parameters.Invoice.Group" Value="Connected to" />
+			<Item Name="Parameters.IsActivityCompleted.Caption" Value="Activity completed" />
+			<Item Name="Parameters.IsMatchConditions.Caption" Value="If object meets the following conditions" />
+			<Item Name="Parameters.IsReexecution.Caption" Value="Repeated completion" />
+			<Item Name="Parameters.Lead.Caption" Value="Lead" />
+			<Item Name="Parameters.Lead.Group" Value="Connected to" />
+			<Item Name="Parameters.Listing.Caption" Value="Listing" />
+			<Item Name="Parameters.ObjectSchemaId.Caption" Value="Object" />
+			<Item Name="Parameters.Opportunity.Caption" Value="Opportunity" />
+			<Item Name="Parameters.Opportunity.Group" Value="Connected to" />
+			<Item Name="Parameters.Order.Caption" Value="Order" />
+			<Item Name="Parameters.Order.Group" Value="Connected to" />
+			<Item Name="Parameters.OwnerId.Caption" Value="Owner" />
+			<Item Name="Parameters.OwnerId.Group" Value="General" />
+			<Item Name="Parameters.PageSchemaId.Caption" Value="Page" />
+			<Item Name="Parameters.PageTypeUId.Caption" Value="Unique identifier of page type" />
+			<Item Name="Parameters.Problem.Caption" Value="Problem" />
+			<Item Name="Parameters.Problem.Group" Value="Connected to" />
+			<Item Name="Parameters.Project.Caption" Value="Project" />
+			<Item Name="Parameters.Project.Group" Value="Connected to" />
+			<Item Name="Parameters.Property.Caption" Value="Property" />
+			<Item Name="Parameters.Recommendation.Caption" Value="Recommendation" />
+			<Item Name="Parameters.Recommendation.Group" Value="General" />
+			<Item Name="Parameters.RecordColumnValues.Caption" Value="Default values" />
+			<Item Name="Parameters.RecordId.Caption" Value="Record Id" />
+			<Item Name="Parameters.Release.Caption" Value="Release" />
+			<Item Name="Parameters.Release.Group" Value="Connected to" />
+			<Item Name="Parameters.RemindBefore.Caption" Value="Remind owner in advance" />
+			<Item Name="Parameters.RemindBeforePeriod.Caption" Value="Remind owner in advance (period)" />
+			<Item Name="Parameters.Requests.Caption" Value="Request" />
+			<Item Name="Parameters.ResultParameter.Caption" Value="Diverging parameter" />
+			<Item Name="Parameters.SendNotify.Caption" Value="Отправить уведомление" />
+			<Item Name="Parameters.ShowExecutionPage.Caption" Value="Show execution page automatically" />
+			<Item Name="Parameters.ShowExecutionPage.Group" Value="General" />
+			<Item Name="Parameters.ShowInScheduler.Caption" Value="Show in calendar" />
+			<Item Name="Parameters.ShowInScheduler.Group" Value="General" />
+			<Item Name="Parameters.StartIn.Caption" Value="Start executing in" />
+			<Item Name="Parameters.StartIn.Group" Value="General" />
+			<Item Name="Parameters.StartInPeriod.Caption" Value="Start executing in (period)" />
+			<Item Name="SmallImage" Type="Image" Value="iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAALGPC/xhBQAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAACqSURBVDhPrZO9CoMwFIX7CHn/F3HN6iLi4uAm4iJKm6ZUTOmtxx/INQpJ9cK3JOd8hITcoqgRI3KEAkFHQPBPeUVCsLfhzfWCqurpaLC3zTNBnuslejzI2B0mKIoXxfGdBWyk7Jw1b0GSPKYTZNmTrXsJUDLmS1p/wgUorLMtA+cS7ZtGoa7nV9krAyYAEChlqG0HKsv3dPQ0VSxj4whCuURw+jOd+M6N+AF9VGgopymjFAAAAABJRU5ErkJggg==" />
+			<Item Name="SmallSvgImage" Type="Image" ContentType="Data" FileExtension=".svg" Value="77u/PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz48IS0tIEdlbmVyYXRvcjogQWRvYmUgSWxsdXN0cmF0b3IgMTkuMi4wLCBTVkcgRXhwb3J0IFBsdWctSW4gLiBTVkcgVmVyc2lvbjogNi4wMCBCdWlsZCAwKSAgLS0+PHN2ZyB2ZXJzaW9uPSIxLjEiIGlkPSJMYXllcl8xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB4PSIwcHgiIHk9IjBweCIJIHZpZXdCb3g9IjAgMCAyNyAyNyIgc3R5bGU9ImVuYWJsZS1iYWNrZ3JvdW5kOm5ldyAwIDAgMjcgMjc7IiB4bWw6c3BhY2U9InByZXNlcnZlIj48c3R5bGUgdHlwZT0idGV4dC9jc3MiPgkuc3Qwe2ZpbGw6I0EyOERDNTt9CS5zdDF7ZmlsbDojRkZGRkZGO308L3N0eWxlPjxwYXRoIGNsYXNzPSJzdDAiIGQ9Ik0yNCwyN0gzYy0xLjcsMC0zLTEuMy0zLTNWM2MwLTEuNywxLjMtMywzLTNoMjFjMS43LDAsMywxLjMsMywzdjIxQzI3LDI1LjcsMjUuNywyNywyNCwyN3oiLz48Zz4JPGc+CQkJCQk8cmVjdCB4PSIxNC4zIiB5PSIxNC44IiB0cmFuc2Zvcm09Im1hdHJpeCgwLjcwNzEgLTAuNzA3MSAwLjcwNzEgMC43MDcxIC02LjU2OTkgMTYuNTY4MSkiIGNsYXNzPSJzdDEiIHdpZHRoPSI0LjkiIGhlaWdodD0iMi44Ii8+CQkJCQk8cmVjdCB4PSIxOC43IiB5PSIxMS44IiB0cmFuc2Zvcm09Im1hdHJpeCgwLjcwNzEgLTAuNzA3MSAwLjcwNzEgMC43MDcxIC0zLjU2OTggMTcuODExMSkiIGNsYXNzPSJzdDEiIHdpZHRoPSIyLjEiIGhlaWdodD0iMi44Ii8+CQk8cG9seWdvbiBjbGFzcz0ic3QxIiBwb2ludHM9IjE1LjUsMjAgMTMsMTcuNSAxMywyMCAJCSIvPgk8L2c+CTxwYXRoIGNsYXNzPSJzdDEiIGQ9Ik0xOC41LDdoLTEwQzcuMSw3LDYsOC4xLDYsOS41djhDNiwxOC45LDcuMSwyMCw4LjUsMjBIMTJ2LTFIOC41QzcuNywxOSw3LDE4LjMsNywxNy41VjEwaDguNUgyMGgxVjkuNQkJQzIxLDguMSwxOS45LDcsMTguNSw3eiIvPjwvZz48L3N2Zz4=" />
+			<Item Name="TitleSvgImage" Type="Image" ContentType="Data" FileExtension=".svg" Value="77u/PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz48IS0tIEdlbmVyYXRvcjogQWRvYmUgSWxsdXN0cmF0b3IgMTkuMi4wLCBTVkcgRXhwb3J0IFBsdWctSW4gLiBTVkcgVmVyc2lvbjogNi4wMCBCdWlsZCAwKSAgLS0+PHN2ZyB2ZXJzaW9uPSIxLjEiIGlkPSJMYXllcl8xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB4PSIwcHgiIHk9IjBweCIJIHZpZXdCb3g9IjAgMCA0MiA0MiIgc3R5bGU9ImVuYWJsZS1iYWNrZ3JvdW5kOm5ldyAwIDAgNDIgNDI7IiB4bWw6c3BhY2U9InByZXNlcnZlIj48c3R5bGUgdHlwZT0idGV4dC9jc3MiPgkuc3Qwe2ZpbGw6I0ZGRkZGRjt9CS5zdDF7ZmlsbDojQTI4REM1O308L3N0eWxlPjxwYXRoIGNsYXNzPSJzdDAiIGQ9Ik0zOSw0MkgzYy0xLjcsMC0zLTEuMy0zLTNWM2MwLTEuNywxLjMtMywzLTNoMzZjMS43LDAsMywxLjMsMywzdjM2QzQyLDQwLjcsNDAuNyw0MiwzOSw0MnoiLz48Zz4JPHJlY3QgeD0iMjIuOSIgeT0iMjMuNyIgdHJhbnNmb3JtPSJtYXRyaXgoMC43MDcxIC0wLjcwNzEgMC43MDcxIDAuNzA3MSAtOS45NDI4IDI2LjM4MzEpIiBjbGFzcz0ic3QxIiB3aWR0aD0iNy45IiBoZWlnaHQ9IjIuOSIvPgk8cG9seWdvbiBjbGFzcz0ic3QxIiBwb2ludHM9IjMyLjcsMjEuNCAzMC43LDE5LjQgMjkuNCwyMC42IDMxLjQsMjIuNiAJIi8+CTxwb2x5Z29uIGNsYXNzPSJzdDEiIHBvaW50cz0iMjQuNCwyOS45IDIyLjIsMjcuOCAyMS42LDMwLjUgCSIvPjwvZz48cGF0aCBjbGFzcz0ic3QxIiBkPSJNMjguNCwxNC4ySDE0LjJjLTEsMC0xLjgsMC44LTEuOCwxLjh2MTIuNGMwLDEsMC44LDEuOCwxLjgsMS44aDQuN2wxLTEuMmgtNS43Yy0wLjMsMC0wLjYtMC4zLTAuNi0wLjZWMTguMwloMTYuNlYxNkMzMC4yLDE1LDI5LjQsMTQuMiwyOC40LDE0LjJ6Ii8+PC9zdmc+" />
+		</Items>
+	</Group>
+</Resources>

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="nl-NL">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Openen wijzigingspagina" />
+			<Item Name="Methods.CreateAccompaningActivity.Caption" Value="Nieuwe begeleidende activiteit" />
+			<Item Name="Methods.CreateActivity.Caption" Value="Nieuwe activiteit" />
+			<Item Name="Methods.GetActivityTitle.Caption" Value="Ontvang activiteitaanbevelingen" />
+			<Item Name="Methods.GetActivityType.Caption" Value="Verkrijg activiteit paginatype" />
+			<Item Name="Methods.GetConditionData.Caption" Value="GetConditionData" />
+			<Item Name="Methods.GetDateTime.Caption" Value="Krijg nieuwe datum/tijd" />
+			<Item Name="Methods.GetExecutionData.Caption" Value="GetExecutionData" />
+			<Item Name="Methods.GetIsExecuted.Caption" Value="GetIsExecuted" />
+			<Item Name="Methods.GetNotificationData.Caption" Value="GetNotificationData" />
+			<Item Name="Methods.SerializeCoreEntityColumn.Caption" Value="SerializeCoreEntityColumn" />
+			<Item Name="Methods.SpecifyActivityColumnValues.Caption" Value="SpecifyActivityColumnValues" />
+		</Items>
+	</Group>
+</Resources>

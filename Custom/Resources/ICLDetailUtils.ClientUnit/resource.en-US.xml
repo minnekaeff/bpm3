@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="ICLDetailUtils" />
+			<Item Name="LocalizableStrings.DisableButtonCaption.Caption" Value="Message to user 1" />
+			<Item Name="LocalizableStrings.DisableButtonCaption.Value" Value="Yes - Disable" />
+			<Item Name="LocalizableStrings.EnableButtonCaption.Caption" Value="Сообщение пользователю 1" />
+			<Item Name="LocalizableStrings.EnableButtonCaption.Value" Value="No - Enable" />
+		</Items>
+	</Group>
+</Resources>

@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "6ab66a08-8dc5-4e53-8897-f726fc1d9ade",
+    "Name": "ICLDetailUtils",
+    "ModifiedOnUtc": "\/Date(1551764485000)\/",
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "ICLDetailUtils",
+    "DependsOn": []
+  }
+}

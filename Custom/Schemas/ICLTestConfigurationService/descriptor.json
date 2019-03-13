@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "f38422f1-fdd4-4e7a-8e2b-90217ff06c75",
+    "Name": "ICLTestConfigurationService",
+    "ModifiedOnUtc": "\/Date(1551082935000)\/",
+    "ManagerName": "SourceCodeSchemaManager",
+    "Caption": "Тест. Конфигурационный сервис",
+    "DependsOn": []
+  }
+}

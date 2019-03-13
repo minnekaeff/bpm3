@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "d3eb26f9-52a3-4375-b360-1ae0d43c8bd6",
+    "Name": "ICLMobileContactCareerModuleConfig",
+    "ModifiedOnUtc": "\/Date(1551790620000)\/",
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Настройки карьеры контакта",
+    "DependsOn": []
+  }
+}

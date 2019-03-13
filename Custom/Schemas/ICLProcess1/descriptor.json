@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "489f95b2-2f71-4b45-8ff1-7421e5bc61c4",
+    "Name": "ICLProcess1",
+    "ModifiedOnUtc": "\/Date(1551768038000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Бизнес-процесс 1",
+    "DependsOn": []
+  }
+}

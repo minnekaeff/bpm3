@@ -1,0 +1,15 @@
+﻿{
+  "Descriptor": {
+    "UId": "274e704c-d072-43f9-97ab-10e1a8005566",
+    "Name": "ICL.AlfabetFilterInAccount",
+    "ModifiedOnUtc": "\/Date(1551941679000)\/",
+    "Maintainer": "Customer",
+    "DependsOn": [
+      {
+        "UId": "a7d9c356-450c-46d7-bc85-72dca4e280ba",
+        "PackageVersion": "7.8.0",
+        "Name": "NUI"
+      }
+    ]
+  }
+}

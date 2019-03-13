@@ -1,0 +1,36 @@
+﻿{
+  "MetaData": {
+    "Schema": {
+      "ManagerName": "ClientUnitSchemaManager",
+      "UId": "a778d543-689c-47a0-b69b-3d173be4569e",
+      "A2": "ICLMobileContactCareerRecordPageSettingsDefaultWorkplace",
+      "A5": "1408dc35-88ec-419c-8abc-34e202ab8ef9",
+      "B1": [],
+      "B2": [
+        {
+          "UId": "fffd4319-7370-462e-8048-29b7f6f4f14b",
+          "A2": "SocialMessageDetailCaptionContactCareer_caption",
+          "A3": "a778d543-689c-47a0-b69b-3d173be4569e",
+          "A4": "a778d543-689c-47a0-b69b-3d173be4569e",
+          "A5": "1408dc35-88ec-419c-8abc-34e202ab8ef9"
+        },
+        {
+          "UId": "d3dee1dc-ff14-4a09-a391-5424455528ea",
+          "A2": "primaryColumnSetContactCareer_caption",
+          "A3": "a778d543-689c-47a0-b69b-3d173be4569e",
+          "A4": "a778d543-689c-47a0-b69b-3d173be4569e",
+          "A5": "1408dc35-88ec-419c-8abc-34e202ab8ef9"
+        }
+      ],
+      "B3": [],
+      "B6": "4675b8ec-3d10-43b3-aa26-59295e433239",
+      "B8": "7.13.1.769",
+      "HD1": "50e3acc0-26fc-4237-a095-849a1d534bd3",
+      "HD6": "null",
+      "HD5": [],
+      "HD7": [],
+      "HD8": [],
+      "HD11": []
+    }
+  }
+}
